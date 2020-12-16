@@ -1,9 +1,12 @@
 using System;
 
-class Git
-{
-    void printgit()
+namespace ConsoleApp1
+{ 
+    partial class Program1
     {
-        Console.WriteLine("Git");
+        public void printgit()
+        {
+            Console.WriteLine("Git");
+        }
     }
 }
